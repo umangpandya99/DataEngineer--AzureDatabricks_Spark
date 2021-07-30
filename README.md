@@ -1,4 +1,4 @@
-# DataEngineer-AzureDatabricks_Spark
+# DataEngineering-AzureDatabricks_Spark
 
 ## Building a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory and Power BI
 
